@@ -314,7 +314,7 @@ int main()
         }
         if (choice == 4)
         {
-            cout << endl << "Введите номер группы для фильтрации: ";
+            cout << endl << "Введите номер студента для фильтрации: ";
             int choice4;
             cin >> choice4;
             cout << endl;
